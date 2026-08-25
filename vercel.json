@@ -1,0 +1,11 @@
+{
+  "trailingSlash": false,
+  "redirects": [
+    {
+      "source": "/:path*",
+      "has": [{ "type": "host", "value": "www.sentrickdrones.com" }],
+      "destination": "https://sentrickdrones.com/:path*",
+      "permanent": true
+    }
+  ]
+}

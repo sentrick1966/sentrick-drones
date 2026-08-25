@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sentrickdrones.com/sitemap.xml
+# Sentrick Drones — a product line of Anima Technology
